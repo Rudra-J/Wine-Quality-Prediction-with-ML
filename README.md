@@ -8,7 +8,7 @@
 ### What do we mean by quality prediction?
 Across the abundance in types of wines this project tries to predict the standardised quality metric for these sets of wines. 
 
-### Fraud detection Techniques
+### Techniques
 - Machine Learning
 - Deep Learning
 - Pattern Recognition
@@ -51,9 +51,9 @@ There were 4 main steps in the construction of these models:
   -> Model Buuilding
   -> Model Testing
 
-### Data analysis:
+### Data Insights:
 
-**1. Data Analysis and Manipulation**
+**1. Data Manipulation**
 
 - Classification reduction
 - Handling missing values
@@ -89,7 +89,7 @@ There were 4 main steps in the construction of these models:
 
 
 ## Observations
-- The models can predict the quality of the wines ot an accuracy of 80 percent.
+- The models can predict the quality of the wines with an accuracy of 80 percent.
 - The highest accuracy can be observed in the Random Forest model with an accuracy of 83.54% closely followed by XGBoost with an accuracy of 83.18%
 
 ## Conclusion
