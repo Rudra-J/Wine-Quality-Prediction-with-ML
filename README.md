@@ -14,7 +14,7 @@ Across the abundance in types of wines this project tries to predict the standar
 - Pattern Recognition
 
 ### Wine quality prediction using machine learning
-Machine learning uses variuos [attern detection alogrithms to understand the variuos relationships between the independent and depent variable sets.
+Machine learning uses variuos pattern detection alogrithms to understand the variuos relationships between the independent and depent variable sets.
 After having understood these said relationships the model can be used to predict the values for the dependent variables depending on the input parameters.
 
 In this project we have used publicly available wine quality data and implemented various supervised machine learning algorithms to try and predict the quality of an untested wine.  We aim to highlight how supervised machine learning techniques may be utilised to accurately classify data with substantial class imbalance.
